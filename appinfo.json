@@ -1,0 +1,33 @@
+{
+    "appKeys": {
+        "KEY_LATITUDE": 1,
+        "KEY_LONGITUDE": 0
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "qpsk31@gmail.com",
+    "longName": "Luna - Moon orbit visualizer and watch.",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/luna.png",
+                "menuIcon": true,
+                "name": "MENU_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Luna",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "f7b784ba-def9-4665-afb0-585aa4fe9cd6",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
